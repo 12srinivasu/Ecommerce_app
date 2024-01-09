@@ -1,0 +1,11 @@
+
+[
+    { "id": 1, "name": "Mobile", "price": 1000.00 },
+    { "id": 2, "name": "Laptop", "price": 30000.00 },
+    { "id": 3, "name": "Chargers", "price": 4000.00 },
+
+    { "id": 4, "name": "Tabs", "price": 5000 }
+
+
+  ]
+  
