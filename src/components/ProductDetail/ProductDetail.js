@@ -1,4 +1,3 @@
-// components/ProductDetail/ProductDetail.js
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import productsData from '../../data/products.json';

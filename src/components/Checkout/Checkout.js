@@ -1,4 +1,3 @@
-// components/Checkout/Checkout.js
 import React from 'react';
 import { useCart } from '../../context/CartContext';
 import { useLocation } from 'react-router-dom';

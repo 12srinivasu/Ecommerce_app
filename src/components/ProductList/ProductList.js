@@ -1,4 +1,3 @@
-// components/ProductList/ProductList.js
 import React from 'react';
 import Product from './Product';
 import productsData from '../../data/products.json';
